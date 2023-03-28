@@ -1,2 +1,1 @@
-this is text file 1
-Abhishek mahajan
+this is text file main
